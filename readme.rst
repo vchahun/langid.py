@@ -42,6 +42,14 @@ langid.py is WSGI-compliant.
 langid.py will use fapws3 as a web server if available, and default to
 wsgiref.simple_server otherwise.
 
+Installation
+------------
+
+Install directly from github using the following command:
+
+::
+  pip install -e git+https://github.com/vchahun/langid.py.git#egg=langid
+
 Usage
 -----
 
