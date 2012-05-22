@@ -48,12 +48,14 @@ Installation
 Install directly from github using the following command:
 
 ::
+
   pip install -e git+https://github.com/vchahun/langid.py.git#egg=langid
 
 Usage
 -----
 
 ::
+
   Usage: langid.py [options]
 
   Options:
